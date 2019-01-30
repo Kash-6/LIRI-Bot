@@ -13,19 +13,19 @@ Please ensure the following dependencies have been installed (-npm install):
 
 The package.json file has more information. 
 
-1) 'concert-this', {musical artist}
+1) concert-this (musical artist)
 
     Returns upcoming shows from the inputted artist to the console.
 
-2)'spotify-this-song', {song name}
+2) spotify-this-song (song name)
 
     Returns album information from the inputted song, and a preview snippet URL, to the console.
 
-3) 'movie-this', {movie title}
+3) movie-this (movie title)
 
     Returns production details from the inputted movie, along with the plot and cast, to the console.
 
-4) 'do-what-it-says'
+4) do-what-it-says
 
     Reads the text in the <em>random.txt</em> file and runs the appropriate function to return information to the console.
 
